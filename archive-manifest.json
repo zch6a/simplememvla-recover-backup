@@ -1,0 +1,31 @@
+{
+  "archive": {
+    "name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip",
+    "size": 19692844439,
+    "sha256": "60abd5546cee614be73eedfad2dd400b9bef420df8304336d0d888a46fefd354"
+  },
+  "release": "https://github.com/zch6a/simplememvla-recover-backup/releases/tag/backup-20261111",
+  "source": "/root/autodl-tmp on the AutoDL server (SimpleMemVLA on LIBERO-Recover)",
+  "part_size": 1073741824,
+  "parts": [
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part001", "size": 1073741824, "sha256": "a195d1b6d7e0be41d5053c3c7bd24d2aeb4df1b36699c32feb6c42a140a37847"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part002", "size": 1073741824, "sha256": "07e1557e4e592a0f99958cbc7155ca26d86ae3117ddb7eae84261a0d87071d3d"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part003", "size": 1073741824, "sha256": "1b57a8d5b2f295a8dd7d130a3912dddb3b315b084dc69c98318c611cff81dd55"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part004", "size": 1073741824, "sha256": "912709787b3b3a5b378c4a9861d65b6b7c6567df0cad4db9e8136a9d985bf796"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part005", "size": 1073741824, "sha256": "0fe8c82abaca4fc5e3abe678ffdbd871deee75257c9606c3b783a019aa28949d"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part006", "size": 1073741824, "sha256": "d2ba23f3b2fa51c1bd769c9914095226e1e21ac8ac38f21131849965c04d4a07"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part007", "size": 1073741824, "sha256": "6e6a93f65d6eb72a3ded754e60ae58b355cb76fcde620b773a10481b0c304fd0"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part008", "size": 1073741824, "sha256": "9c9bceb2e909922aa0e4421990cf6d39a60afeb6aed0e75295525c249817812c"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part009", "size": 1073741824, "sha256": "52aab8e7ab3c7903e8933ce1d15b9ea5d9ff6905f7a3a2a90555bcf1c06965b5"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part010", "size": 1073741824, "sha256": "a039029e2e40bed6e36fdd9967978c48731a17ef60ac60046c2edcccb576676b"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part011", "size": 1073741824, "sha256": "8c242cdb35127546f6ab27b01973c51c60e1b559ae9bf4442381ef5199c82fa2"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part012", "size": 1073741824, "sha256": "959a235076b68588009e7494f158db334c27fc7279b70b2fca2a7df8fc0220c3"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part013", "size": 1073741824, "sha256": "4ce94ac1b5b1fd78e91095f6c9734448991da5ec670bde2147cec2570e07f6ed"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part014", "size": 1073741824, "sha256": "bd61f94026cb80216aabac42cbecf0ac2b3d9fade0d7dc16273c128607318443"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part015", "size": 1073741824, "sha256": "94e14521599ddafeacf953c26bbad5b8fb28a14b60e79bca76ba3bee112895bf"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part016", "size": 1073741824, "sha256": "d4f642b8fe76c32670fe5f6394a143f47afb606dcc97a98f724a8116e46ffb49"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part017", "size": 1073741824, "sha256": "30ca9daaf2d3fcc0a681605d78c7bad60081024e7cdfe1d84211fa72fe3fd1cd"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part018", "size": 1073741824, "sha256": "bd6e54dab2d8be9b9816e1dfc7f637683e2fa42252a675c6977a54879398bbca"},
+    {"name": "AutoDL_SimpleMemVLA_LIBERO-Recover_20261111.zip.part019", "size": 365491607, "sha256": "87d0c0b9a3cc4255cc62c4abaf2784f19b9e2cff10ecbd33fdf4a67c6035f5fd"}
+  ]
+}
